@@ -1,0 +1,4 @@
+mysql-connector-python==8.1.0
+pycryptodome==3.18.0
+pyperclip==1.8.2
+rich==13.5.2
